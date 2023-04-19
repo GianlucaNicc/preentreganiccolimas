@@ -6,7 +6,7 @@ alert(`Hola, ${name}! ¡Gracias por visitarnos!`);
 const ItemListContainer = () => {
   return (
     <div className="item-list-container">
-      <p>Selecciona uno de nuestros productos para comenzar a comprar</p>
+      <p>Selecciona uno de nuestros productos para comenzar a comprar.</p>
     </div>
   );
 };
